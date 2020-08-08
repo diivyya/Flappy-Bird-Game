@@ -1,0 +1,19 @@
+Name: A Flappy Bird Game
+
+Made By: Divya Tembhurne
+
+Developed on : June 29th, 2020
+
+Updated on: July 18, 2020
+
+Type: Game 
+
+Purpose: A Project made, its of no Commercial or Professional Use yet.
+
+Data Sructures and Algorithm used: None
+
+Languages and Packages used: Python and Pygame
+
+Error Handling Techniques:  None
+
+Required Input/Output: Interactive Game
