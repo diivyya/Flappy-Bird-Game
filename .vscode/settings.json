@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "C:\\Users\\Divya\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "workbench.editorAssociations": [
+    {
+        "viewType": "",
+        "filenamePattern": ""
+    }
+    ],
+    "python.linting.pylintArgs" : [
+        "--extension-pkg-whitelist=lxml" ,
+        "--unsafe-load-any-extension=y"  // The extension is "lxml" not "1xml"
+    ]
+}
